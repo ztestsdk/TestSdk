@@ -14,12 +14,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.blankj</groupId>
-      <artifactId>utilcode</artifactId>
-      <version>1.21.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>appcompat-v7</artifactId>
       <version>27.1.1</version>
